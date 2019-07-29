@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Buenzli.net
+title: Buenzli.net Site Template
 subtitle:
 description:
 keywords:
@@ -79,5 +79,5 @@ theme: clean-blog
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo:  https://github.com/gbuenzli/buenzli.net
+  repo:  https://github.com/gbuenzli/site-template
   branch:  gh-pages
